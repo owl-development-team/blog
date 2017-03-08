@@ -16,3 +16,5 @@ Proyecto dedicado al crecimiento de la comunidad desarrolladora de aplicaciones 
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
